@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67929852579",
+    "project_id": "moonsite-23db0",
+    "storage_bucket": "moonsite-23db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67929852579:android:d80a50f880561fb0a48d16",
+        "android_client_info": {
+          "package_name": "com.moonsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67929852579-babh1neh2p21ki0988lnchg0ev2g31ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqw2_WPF2FssgRbKVEOIrjPUP6ZpyLrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67929852579-babh1neh2p21ki0988lnchg0ev2g31ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
